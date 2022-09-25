@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center" style="display: inline_block">
   <a href="https://github.com/Arrudaemerson06">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arrudaemerson06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrudaemerson06&layout=compact&langs_count=7&theme=dark"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Arrudaemerson06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrudaemerson06&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Arruda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
