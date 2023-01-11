@@ -1,4 +1,4 @@
-## Olá! Eu sou o Arruda, estudante de programação desde 2021. Atualmente estudo desenvolvimento de software fullstack na [Cubos Academy](https://github.com/cubos-academy), mas minha stack de preferência é o Backend. 
+## Olá! Eu sou o Arruda, estudante de programação desde 2021. Atualmente estudo desenvolvimento de software fullstack na [Cubos Academy](https://github.com/cubos-academy). 
 
 <!---
 Arrudaemerson06/Arrudaemerson06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Arruda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <!---
-  <img align="center" alt="Arruda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<!--     -
+  <img align="center" alt="Arruda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <img align="center" alt="Arruda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  --->
+<!--   - -->
   <img align="center" alt="Arruda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Arruda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arruda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
