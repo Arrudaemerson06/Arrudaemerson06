@@ -1,8 +1,4 @@
-## Olá! Eu sou o Arruda!
-
-- 👀 I’m interested in Fórmula 1 and Coding
-- 🌱 I’m currently learning FullStack Development
-- 📫 How to reach me - arrudaemerson06@gmail.com
+## Olá! Eu sou o Arruda, estudante de programação desde 2021. Atualmente estudo desenvolvimento de software fullstack na @cubosacademy, mas minha stack de preferência é o Backend. 
 
 <!---
 Arrudaemerson06/Arrudaemerson06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
