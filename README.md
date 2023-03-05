@@ -1,4 +1,6 @@
-## Olá! Eu sou o Arruda, estudante de programação desde 2021. Atualmente estudo desenvolvimento de software fullstack na [Cubos Academy](https://github.com/cubos-academy). 
+## Olá! Eu sou o Arruda, desenvolvedor fullstack Jr. 
+## Sou estudante de Ciência da Computação e também curso desenvolvimento de software na [Cubos Academy](https://github.com/cubos-academy). 
+## Atualmente estou aprimorando meus conhecimentos em banco de dados SQL e noSQL, e no frontend estou praticando React.
 
 <!---
 Arrudaemerson06/Arrudaemerson06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
